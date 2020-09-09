@@ -20,5 +20,4 @@ You can find and get touch with me on these accounts!
 [![Linkedin Badge](https://img.shields.io/badge/zavaremre-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zavaremre/)
 [![Instagram Badge](https://img.shields.io/badge/zavaremre-follow%20on%20instagram-magenta?style=for-the-badge&logo=instagram)](https://www.instagram.com/zavaremre/) 
 [![Envato Badge](https://img.shields.io/badge/zavaremre-follow%20on%20envato-green?style=for-the-badge&logo=envato)](https://themeforest.net/user/zavaremre/)
-[![Bionluk Badge](https://img.shields.io/badge/zavaremre-follow%20on%20bionluk-pink?style=for-the-badge&logo=code)](https://www.bionluk.com/zavaremre/)
 [![Codepen Badge](https://img.shields.io/badge/zavaremre-follow%20on%20codepen-black?style=for-the-badge&logo=codepen)](https://www.codepen.com/zavaremre/)
