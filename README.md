@@ -1,7 +1,5 @@
 
 ### Hi there 👋 
-  ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/zavaremre/readme)
-
 
 # :man_technologist: My Name is Emre ZAVAR, I am a Front End Developer.
 ![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zavaremre&count_private=true&show_icons=true&theme=default)
